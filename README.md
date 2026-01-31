@@ -74,7 +74,3 @@
 - **Roadmap:** Catálogo inicial → evolução temporal → recomendações → expansão global.  
 
 ---
-
-👉 Esse formato detalhado + resumo te dá flexibilidade: você pode usar a versão completa para planejamento estratégico e o resumo como guia rápido.  
-
-Quer que eu monte também um **template editável em tópicos**, pronto para você preencher com seus próprios estilos e requisitos?
