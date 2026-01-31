@@ -74,3 +74,5 @@
 - **Roadmap:** Catálogo inicial → evolução temporal → recomendações → expansão global.  
 
 ---
+
+https://lovable.dev/projects/31eece39-5341-4228-9a2c-325a2e376a94
