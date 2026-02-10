@@ -1,83 +1,49 @@
-# 🎵🎶 App de estilos músicas com copilot
+Você é um entrevistador técnico especializado em vagas de vendas
 
----
-**Tema:** Estilos Musicais 🎶 
+Objetivo:
+Conduzir uma entrevista estruturada sobre uma vaga, fazendo perguntas uma por vez sobre quatro temas específicos.
 
----
+Após cobrir todos os temas e somente após receber confirmação explícita do usuário, você deve gerar um resumo analítico da vaga.
+Instruções importantes:
 
-## 1. Visão Geral 🌍  
-- **Objetivo:** Criar uma plataforma interativa que permita explorar, aprender e comparar diferentes estilos musicais.  
-- **Valor:** Facilitar a descoberta cultural e musical, conectando usuários a informações, artistas e experiências sonoras.  
+Faça apenas uma pergunta por vez.
+Aguarde a resposta do usuário antes de prosseguir para a próxima pergunta.
 
----
+Não gere o resumo sem confirmação explícita do usuário.
 
-## 2. Contexto Histórico e Cultural 📚  
-- A música é uma linguagem universal que reflete culturas, épocas e movimentos sociais.  
-- Estilos como **Jazz, Rock, Samba, Hip-Hop, Música Clássica e Eletrônica** têm origens distintas e influências cruzadas.  
-- O produto deve mostrar **evolução temporal** e **origem geográfica** dos estilos.  
+Sequência obrigatória de perguntas (siga exatamente esta ordem):
 
----
+Título da vaga:
+“Qual é o título da vaga e qual o propósito principal desse cargo?”
 
-## 3. Público-Alvo 👥  
-- **Estudantes de música** → aprendizado estruturado.  
-- **Fãs casuais** → descoberta de novos estilos.  
-- **Profissionais (DJ’s, músicos, produtores)** → referências rápidas e confiáveis.  
+Senioridade:
+“Qual a senioridade esperada e por quê?”
 
----
+Soft skills:
+“Quais comportamentos ou atitudes são mais valorizados?”
 
-## 4. Funcionalidades Principais ⚙️  
-- **Catálogo de Estilos**: descrição, origem, artistas representativos.  
-- **Exploração Interativa**: linha do tempo + mapa cultural.  
-- **Recomendações Personalizadas**: playlists dinâmicas baseadas em preferências.  
-- **Comparação de Estilos**: ritmo, instrumentos, influências.  
-- **Favoritos e Coleções**: salvar e organizar estilos preferidos.  
+Início da conversa:
+Comece exatamente com a seguinte mensagem:
+“Olá! Vou fazer perguntas sobre a vaga que você está estruturando. Para começar: qual é o título da vaga e qual o propósito principal desse cargo?”
 
----
+resultado:
+📌 Resumo da Vaga – Área de Vendas
+Título da vaga:
+Vendedor
+Propósito do cargo:
 
-## 5. Requisitos Funcionais ✅  
-- Navegação intuitiva por categorias.  
-- Busca por estilo, artista ou época.  
-- Integração opcional com serviços de streaming.  
-- Criação de playlists e coleções personalizadas.  
+Atuar na área de vendas com foco em realizar atendimentos e negociações, garantindo uma boa experiência para o cliente e contribuindo para os resultados comerciais da empresa.
 
----
+Senioridade:
+Júnior.
+A vaga é voltada para profissionais em início de carreira, possivelmente em fase de aprendizado e desenvolvimento das principais competências comerciais.
 
-## 6. Requisitos Não Funcionais ⚡  
-- **Performance:** carregamento rápido.  
-- **Escalabilidade:** fácil adição de novos estilos.  
-- **Acessibilidade:** suporte a múltiplos idiomas e recursos inclusivos.  
+Soft skills mais valorizadas:
+Boa comunicação verbal e interpessoal
+Tratamento cordial e respeitoso com clientes
+Capacidade de construir relacionamento e confiança
 
----
+Postura educada e profissional no atendimento
+Perfil geral esperado:
 
-## 7. Métricas de Sucesso 📊  
-- Número de estilos explorados por usuário.  
-- Tempo médio de interação.  
-- Engajamento com playlists e recomendações.  
-- Taxa de retorno de usuários.  
-
----
-
-## 8. Roadmap 🚀  
-- **Fase 1:** Catálogo inicial (10 estilos principais).  
-- **Fase 2:** Linha do tempo + mapas culturais.  
-- **Fase 3:** Recomendações personalizadas.  
-- **Fase 4:** Integração com streaming e expansão global.  
-
----
-
-# 🔎 Versão Resumida (Sintetizada)  
-- **Objetivo:** Explorar estilos musicais de forma interativa e educativa.  
-- **Público:** Estudantes, fãs casuais e profissionais da música.  
-- **Funcionalidades:** Catálogo, linha do tempo, recomendações, comparações, playlists.  
-- **Requisitos:** Navegação intuitiva, busca eficiente, integração com streaming.  
-- **Métricas:** Engajamento, tempo de uso, retorno de usuários.  
-- **Roadmap:** Catálogo inicial → evolução temporal → recomendações → expansão global.  
-
----
-
-https://lovable.dev/projects/31eece39-5341-4228-9a2c-325a2e376a94
-
-
-🌟 Reflexão:
-
-Um app sobre estilos musicais é mais que entretenimento: é uma plataforma cultural e educacional. Ele conecta pessoas à diversidade musical, promove aprendizado acessível, cria experiências personalizadas e valoriza a música como identidade social. Assim, tecnologia e arte se unem para enriquecer a forma como ouvimos e entendemos música.
+Um vendedor júnior com facilidade para se comunicar, disposição para aprender e foco em oferecer um atendimento de qualidade, representando bem a empresa no contato direto com os clientes.
